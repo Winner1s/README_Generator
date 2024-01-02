@@ -9,30 +9,30 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "Title of project" 
-    } mjgk
+        message: "Title of project",
+    }
 
     {
         type: "input",
         name: "description",
-        message: "Summary of project" 
+        message: "Summary of project",
     } 
 
     {
         type: "input",
         name: "table of contents",
-        message: "Create table of contents" 
+        message: "Create table of contents",
     }
     {
         type: "input",
         name: "Installation",
-        message: "Provide installation instructions" 
+        message: "Provide installation instructions",
     }
 
     {
         type: "input",
         name: "Usage",
-        message: "Provide usage details" 
+        message: "Provide usage details" ,
     }
 
     {
