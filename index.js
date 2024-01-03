@@ -43,7 +43,7 @@ const questions = [
         name: "license",
         choices: ["MIT", "APACHE2.0", "Boost1.0", "MPL2.0", "BSD2", "none"], 
     },
-node
+
     {
         type: "input",
         name: "name",
