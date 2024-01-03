@@ -1,7 +1,7 @@
 # README Generator
 by Stefany Hobson
 
-[![Demo CountPages alpha](https://drive.google.com/file/d/1NajSeBhoiEKFYuRf84H-Hkb9FDrZwal_/view)](https://drive.google.com/file/d/1NajSeBhoiEKFYuRf84H-Hkb9FDrZwal_/view)
+[Demo CountPages alpha](https://drive.google.com/file/d/1NajSeBhoiEKFYuRf84H-Hkb9FDrZwal_/view)
 
 ## Deployed Application
 * Github Repository[]()
