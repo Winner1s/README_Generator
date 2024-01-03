@@ -4,8 +4,8 @@ by Stefany Hobson
 [Demo CountPages alpha](https://drive.google.com/file/d/1NajSeBhoiEKFYuRf84H-Hkb9FDrZwal_/view)
 
 ## Deployed Application
-* Github Repository[]()
-* Deployed application[]()
+* Github Repository[https://github.com/Winner1s/README_Generator](https://github.com/Winner1s/README_Generator)
+* Deployed application[https://winner1s.github.io/README_Generator/](https://winner1s.github.io/README_Generator/)
 
 ## Table of Contents
 * [Description](#description)

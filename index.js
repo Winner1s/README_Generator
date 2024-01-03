@@ -39,11 +39,11 @@ const questions = [
  
 
     {
-        type: "checkbox",
+        type: "list",
         name: "license",
         choices: ["MIT", "APACHE2.0", "Boost1.0", "MPL2.0", "BSD2", "none"], 
     },
-
+node
     {
         type: "input",
         name: "name",
@@ -53,13 +53,13 @@ const questions = [
     {
         type: "input",
         name: "email",
-        message: "Enter email address using this format []()" 
+        message: "Enter email address using this format" 
     },
 
     {
         type: "input",
         name: "creator",
-        message: "Enter github.com account using this format []()" 
+        message: "Enter github.com account using this format" 
     },
     {
         type: "input",
